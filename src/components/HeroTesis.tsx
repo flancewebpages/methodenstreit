@@ -34,7 +34,7 @@ export default function HeroTesis() {
           <div className="absolute -inset-1 rounded-3xl bg-gradient-to-br from-sky-400/40 via-emerald-400/30 to-orange-400/40 opacity-60 blur-xl group-hover:opacity-90 transition-opacity" />
           <div className="relative rounded-3xl overflow-hidden border border-slate-700/80 bg-slate-900/90 shadow-[0_18px_45px_rgba(0,0,0,0.9)]">
             <img
-              src="/imagenes/Disputation.jpg"
+              src="imagenes/Disputation.jpg"
               className="w-full h-full object-cover grayscale-[20%] group-hover:grayscale-0 group-hover:scale-[1.03] transition-all duration-700"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-slate-950/80 via-slate-950/20 to-transparent" />
