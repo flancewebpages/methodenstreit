@@ -57,7 +57,7 @@ export default function ArgumentoTres() {
           <div className="relative rounded-3xl border border-slate-700/70 bg-slate-900/90 p-5 shadow-[0_20px_50px_rgba(0,0,0,0.9)] backdrop-blur">
             <div className="relative overflow-hidden rounded-2xl border border-slate-700/70">
               <img
-                src="/imagenes/mengerbyn.jpg"
+                src="imagenes/mengerbyn.jpg"
                 alt="Retrato conceptual de Carl Menger"
                 className="w-full h-full object-cover grayscale-[10%] hover:grayscale-0 hover:scale-[1.03] transition-all duration-700"
               />

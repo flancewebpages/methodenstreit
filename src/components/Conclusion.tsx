@@ -53,7 +53,7 @@ export default function Conclusion() {
           <div className="relative rounded-3xl border border-slate-700/70 bg-slate-900/90 p-5 shadow-[0_20px_50px_rgba(0,0,0,0.9)] backdrop-blur">
             <div className="relative overflow-hidden rounded-2xl border border-slate-700/70">
               <img
-                src="/imagenes/Chess.png"
+                src="imagenes/Chess.png"
                 alt="Ajedrez representando tensión estratégica"
                 className="w-full h-full object-cover grayscale-[15%] hover:grayscale-0 hover:scale-[1.03] transition-all duration-700"
               />
