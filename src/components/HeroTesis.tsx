@@ -11,14 +11,10 @@ export default function HeroTesis() {
         </p>
 
         <h1 className="text-3xl sm:text-4xl lg:text-5xl font-semibold tracking-tight text-slate-50 leading-tight">
-          Entre leyes universales e historia viva: el Methodenstreit como
-          disputa sobre la naturaleza y el propósito de la ciencia económica
+          Entre leyes universales e historia viva: el Methodenstreit (disputa del método)
         </h1>
 
         <div className="mt-6 rounded-2xl border border-slate-700/70 bg-slate-900/70 p-5 sm:p-6 lg:p-7 shadow-[0_18px_45px_rgba(15,23,42,0.8)] backdrop-blur-md">
-          <h2 className="text-sm font-semibold uppercase tracking-[0.22em] text-sky-300 mb-2">
-            Tesis definitiva
-          </h2>
           <p className="text-slate-200 text-sm sm:text-base leading-relaxed">
             El Methodenstreit no fue solo un debate metodológico, sino el origen
             de una tensión fundacional sobre la economía: si la disciplina debe

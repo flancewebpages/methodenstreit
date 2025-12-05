@@ -6,7 +6,9 @@ import ArgumentoTres from "./components/ArgumentoTres";
 import ArgumentoCuatro from "./components/ArgumentoCuatro";
 import Conclusion from "./components/Conclusion";
 import Footer from "./components/Footer";
-
+import ProyectoIntelectual from "./components/ProyectoIntelectual";
+import Incidencia from "./components/Incidencia";
+import Bibliografia from "./components/Bibliografia";
 
 function App() {
   return (
@@ -18,11 +20,14 @@ function App() {
       <div className="relative z-10 max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-10 sm:py-14 lg:py-20">
         <TopBar />
         <HeroTesis />
+        <ProyectoIntelectual />
         <ArgumentoUno />
         <ArgumentoDos />
         <ArgumentoTres />
         <ArgumentoCuatro />
+        <Incidencia />
         <Conclusion />
+        <Bibliografia />
         <Footer />
       </div>
     </div>

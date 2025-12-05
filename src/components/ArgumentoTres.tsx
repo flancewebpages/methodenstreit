@@ -4,9 +4,6 @@ export default function ArgumentoTres() {
       id="argumento-3"
       className="mt-24 space-y-6 animate-fade-in-up"
     >
-      <p className="text-xs uppercase tracking-[0.22em] text-sky-300">
-        Argumento 3 · Menger y las leyes universales
-      </p>
 
       <h2 className="text-2xl sm:text-3xl font-semibold text-slate-50">
         La economía como ciencia teórica y racional
@@ -29,8 +26,10 @@ export default function ArgumentoTres() {
             derivan principios universales a partir de axiomas sobre el espacio.
           </p>
 
-          <p className="border-l-2 border-sky-400/70 pl-4 italic text-slate-100
-                        bg-slate-900/60 rounded-r-xl py-3">
+          <p
+            className="border-l-2 border-sky-400/70 pl-4 italic text-slate-100
+                       bg-slate-900/60 rounded-r-xl py-3"
+          >
             “To want to test the pure theory of economy by experience in its full
             reality is a process analogous to that of the mathematician who wants
             to correct the principles of geometry by measuring real objects.”

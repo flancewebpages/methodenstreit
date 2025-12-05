@@ -4,9 +4,6 @@ export default function Conclusion() {
       id="conclusion"
       className="mt-28 space-y-6 animate-fade-in-up"
     >
-      <p className="text-xs uppercase tracking-[0.22em] text-fuchsia-300">
-        Conclusión · Tensión fundacional de la economía
-      </p>
 
       <h2 className="text-2xl sm:text-3xl font-semibold text-slate-50">
         Entre leyes universales y construcción histórica
@@ -17,7 +14,7 @@ export default function Conclusion() {
         {/* Texto */}
         <div className="space-y-4 text-sm sm:text-base leading-relaxed text-slate-200">
           <p>
-            En conjunto, los argumentos muestran que el <strong>Methodenstreit </strong>
+            En conjunto, los argumentos muestran que el <strong>Methodenstreit</strong>
             no fue solo una discusión técnica entre inducción e individualismo
             metodológico, sino una disputa sobre qué es lo que la economía debe
             explicar y <strong>para qué</strong> debe hacerlo.

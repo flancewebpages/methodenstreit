@@ -4,9 +4,6 @@ export default function ArgumentoDos() {
       id="argumento-2"
       className="mt-24 space-y-6 animate-fade-in-up"
     >
-      <p className="text-xs uppercase tracking-[0.22em] text-emerald-300">
-        Argumento 2 · Naturaleza de lo social
-      </p>
 
       <h2 className="text-2xl sm:text-3xl font-semibold text-slate-50">
         Instituciones: ¿resultado de individuos o estructuras históricas?
@@ -34,7 +31,7 @@ export default function ArgumentoDos() {
             “Only the historical method can reveal how economic life
             develops from the moral, legal, and political institutions
             of a people.”
-            <span className="not-italic text-slate-400"> (Schmoller, 1883)</span>
+            <span className="not-italic text-slate-400"> (Schmoller, 1883, p. 325)</span>
           </p>
 
           <p>
@@ -54,7 +51,7 @@ export default function ArgumentoDos() {
           </p>
         </div>
 
-        {/* Imagen lateral con mismo estilo del diseño */}
+        {/* Imagen lateral */}
         <div className="animate-fade-in-up lg:animate-fade-in-up-delayed">
           <div className="relative rounded-3xl border border-slate-700/70 bg-slate-900/90 p-5 shadow-[0_20px_50px_rgba(0,0,0,0.9)] backdrop-blur">
             <div className="relative overflow-hidden rounded-2xl border border-slate-700/70">

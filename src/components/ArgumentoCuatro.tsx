@@ -4,9 +4,6 @@ export default function ArgumentoCuatro() {
       id="argumento-4"
       className="mt-24 space-y-6 animate-fade-in-up"
     >
-      <p className="text-xs uppercase tracking-[0.22em] text-orange-300">
-        Argumento 4 · Schmoller y la historicidad del fenómeno económico
-      </p>
 
       <h2 className="text-2xl sm:text-3xl font-semibold text-slate-50">
         Economía como disciplina histórica y normativa
@@ -22,8 +19,10 @@ export default function ArgumentoCuatro() {
             afirma:
           </p>
 
-          <p className="border-l-2 border-emerald-400/70 pl-4 italic text-slate-100
-                        bg-slate-900/60 rounded-r-xl py-3">
+          <p
+            className="border-l-2 border-emerald-400/70 pl-4 italic text-slate-100
+                       bg-slate-900/60 rounded-r-xl py-3"
+          >
             “We must direct our attention to the phenomena of economic life as
             they present themselves in their empirical reality, in order to gain
             insight into their laws of development.”
@@ -77,14 +76,13 @@ export default function ArgumentoCuatro() {
         <div className="rounded-xl bg-slate-950/70 border border-emerald-500/40 p-3">
           <p className="font-medium text-emerald-200 mb-1">Instituciones</p>
           <p>
-            La economía surge de valores, costumbres y estructuras históricas.
+            La economía debería surgir de valores, costumbres y estructuras históricas.
           </p>
         </div>
         <div className="rounded-xl bg-slate-950/70 border border-orange-500/40 p-3">
           <p className="font-medium text-orange-200 mb-1">Método inductivo</p>
           <p>
-            La teoría se deriva del estudio empírico de la vida económica
-            real.
+            La teoría se deriva del estudio empírico de la vida económica real.
           </p>
         </div>
       </div>
